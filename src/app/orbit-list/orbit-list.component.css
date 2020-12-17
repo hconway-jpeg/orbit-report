@@ -1,0 +1,30 @@
+.sortable {
+    cursor: pointer;
+    color: #dd5;
+}
+
+.warning {
+    background-color: tomato;
+}
+
+table {
+  color: palevioletred;
+  font-weight: bold;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-radius: 5px;
+  overflow: hidden;
+  margin: 12px 0;
+  min-width: 700px;
+  background: peachpuff;
+}
+
+.header-row {
+    background: paleturquoise;
+    color: purple
+}
+
+th, td {
+    text-align: left;
+    margin: 5px 10px;
+    padding: 6px;
+}
